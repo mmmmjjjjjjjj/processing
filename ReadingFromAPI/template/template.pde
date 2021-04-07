@@ -1,12 +1,12 @@
 /*  Template for working with REST APIs */
 
 // URL of public API_HOST
-String api_host = "https://example-123.loca.lt";
+String api_host = "https://maxjaffe-0687444413.loca.lt/";
 
 // request frequency
 // this value should not be less than the INTERVAL in arduino-serial-fetch 
 // If it was, we would be requesting data faster than it is updated.
-Timer interval = new Timer(200);
+Timer interval = new Timer(500);
 
 // array to store all pin data
 int[] pins; 

@@ -6,7 +6,7 @@
  */
 
 // URL of public API_HOST
-String api_host = "https://example-123.loca.lt";
+String api_host = "https://maxjaffe-0687444413.loca.lt/";
 
 // request frequency
 // this value should not be less than the INTERVAL in arduino-serial-fetch 
